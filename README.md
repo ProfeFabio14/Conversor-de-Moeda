@@ -15,4 +15,4 @@
   ғᴀᴢᴇʀ ᴄáʟᴄᴜʟᴏs ᴅᴇ ᴄᴏɴᴠᴇʀsãᴏ ᴇ ʀᴇsᴘᴏɴᴅᴇʀ ᴀ ᴇᴠᴇɴᴛᴏs ᴅᴇ ᴜsᴜáʀɪᴏ.
   ғᴏɪ ᴜᴍᴀ ɪɴᴛʀᴏᴅᴜçãᴏ ᴇᴍᴏᴄɪᴏɴᴀɴᴛᴇ ᴀᴏ ᴍᴜɴᴅᴏ ᴅᴀ ᴘʀᴏɢʀᴀᴍᴀçãᴏ ᴡᴇʙ ɪɴᴛᴇʀᴀᴛɪᴠᴀ.  :iphone: :computer:</h4>
 
-<img src="https://github.com/ProfeFabio14/Conversor-de-Monedas/blob/main/Assets/computer%20-cell...png?raw=true"> 
+<img src="https://github.com/ProfeFabio14/Conversor-de-Monedas/blob/main/Assets/computer%20-cell...png?raw=true">
