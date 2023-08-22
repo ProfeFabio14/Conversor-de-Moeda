@@ -24,10 +24,6 @@ function convertValues() {
 
 
 
-
-
-
-
     //aca formateamos los valores de las monedas
 
     if (selectMonedaAConvertirAbajo.value == "dolar") {

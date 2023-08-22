@@ -37,13 +37,11 @@ body {
 
 main {
     width: 450px;
-    /*background: linear-gradient(to top,#EBEBEB, 50%, #BBBBBB);*/
     border-radius: 20px;
     margin: 0 auto 40px;
-    padding: 44px 24px 23px;
-    /*Aplica encima, a los lados, abajo*/
+    padding: 44px 24px 23px; /*Aplica encima, a los lados, abajo*/
     box-shadow: 0 0 5px 5px #772FD3;
-    
+   
 }
 
 
